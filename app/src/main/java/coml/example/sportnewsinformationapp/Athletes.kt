@@ -21,20 +21,20 @@ class Athletes : Fragment() {
 
     private val athletesList = ArrayList(listOf(
         Athlete(
+            name = "Abebe Bikela",
+            sportName = "Marathon runner",
+            country = "Ethiopia",
+            bestPerformance = "Won tokyo marathon with bare foot",
+            medals = "2 Olympic gold medals",
+            facts = "Widely considered to be the in the history of Marathon"
+        ),
+        Athlete(
             name = "Usain Bolt",
             sportName = "Short distance",
             country = "Jamaica",
             bestPerformance = "World record holder for the 100 metres, 200 metres and 4 × 100 metres relay",
             medals = "8 Olympic gold medals",
             facts = "Widely considered to be the greatest sprinter of all time"
-        ),
-        Athlete(
-            name = "Michael Phelps",
-            sportName = "Swimming",
-            country = "USA",
-            bestPerformance = "Most successful and most decorated Olympian of all time",
-            medals = "23 Olympic gold medals",
-            facts = "Holds the records for Olympic gold medals, Olympic gold medals in individual events, and Olympic medals in individual events for a male"
         ),
         Athlete(
             name = "Abebe Bikela",
