@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">""</string>
+    <string-array name="sport_types">
+        <item>Measure</item>
+        <item>Precision</item>
+        <item>Spectacle</item>
+        <item>Combat</item>
+        <item>Play</item>
+    </string-array>
+    <string name="sports">Sports</string>
+    <string name="news">News</string>
+    <string name="historical">Archives</string>
+    <string name="about_me">About Me</string>
+    <string name="sport_name">Sport Name</string>
+    <string name="instruction">Instruction</string>
+    <string name="interesting_facts">Interesting Facts</string>
+    <string name="medals">Medals</string>
+    <string name="best_performance">Best Performance</string>
+    <string name="country">Country</string>
+    <string name="sport">Sport</string>
+    <string name="name">Name</string>
+    <string name="bottom_news">News</string>
+    <string name="bottom_events">Events</string>
+    <string name="bottom_historical">Historical</string>
+    <string name="hello_belay">Hi Michael</string>
+    <string name="sport_type">Sport Type</string>
+    <string name="history_name">History Name</string>
+    <string name="date_yyyy_mm_dd">Date (YYYY-MM-DD)</string>
+    <string name="description">Description</string>
+    <string name="name_michael"> Michael Admasu</string>
+    <string name="favorite_sport_foot_ball">About Me</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_date">Event Date</string>
+    <string name="athletes">Athletes</string>
+    <string name="events">Events</string>
+
+</resources>
